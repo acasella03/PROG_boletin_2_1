@@ -9,5 +9,4 @@ public class Boletin2_1 {
         area = base * altura / 2;
         System.out.println("area = " + area);
     }
-/*version 1.0 */
 }
